@@ -1,4 +1,4 @@
-# Симуляция
+# Виселица
 
 Проект реализован в процедурном стиле в рамках ТЗ из <<[Java Роадмап Сергея Жукова](https://zhukovsd.github.io/java-backend-learning-course/projects/hangman/)>>
 
