@@ -1,0 +1,10 @@
+target/*
+bin/*
+.idea/*
+.out/*
+*.jar
+*.iws
+*.iml
+*.ipr
+# Project exclude paths
+/out/
